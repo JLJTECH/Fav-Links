@@ -21,6 +21,17 @@ Web/Admin
 Startup
 -------
 
-* 1
-* 2
-* 3
+* Dev Resources:  http://www.toptal.com/blog & http://www.toptal.com/handbook
+
+* Shopify Resources: http://bootstrappingecommerce.com/50-of-the-best-shopify-resources/
+
+* Proposal Content resource: http://www.proposable.com/
+
+* Free Legal Docs: http://www.docracy.com/
+
+* web proxy: https://anonysurfer.com/
+
+* Free Learning site: http://www.gcflearnfree.org/
+
+* Quora Startup Threads: http://ryanspoon.com/2010/10/31/must-read-quora-threads-for-startups/
+

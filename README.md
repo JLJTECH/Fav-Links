@@ -1,9 +1,6 @@
 # Fav-Links
 Collection of links curated from numerous web sessions.
 
-# Fav-Links
-Collection of links curated from numerous web sessions.
-
 Web/Admin
 -----
 

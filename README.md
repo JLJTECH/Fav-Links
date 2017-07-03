@@ -37,3 +37,4 @@ Startup
 
 Misc
 -------
+* Get list of all Chrome tabs: chrome://inspect/#pages
